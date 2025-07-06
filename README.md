@@ -1,4 +1,4 @@
-***Chameleon Website – Capstone Project***
+*Chameleon Website – Capstone Project*
 
 ---
 
